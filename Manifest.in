@@ -1,0 +1,2 @@
+include src/compare_my_stocks/gui/mainwindows.ui
+recursive-include src/compare_my_stocks/data *
